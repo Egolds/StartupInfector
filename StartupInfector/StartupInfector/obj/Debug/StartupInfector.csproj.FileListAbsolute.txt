@@ -1,0 +1,12 @@
+C:\Users\Golden\Desktop\StartupInfector\StartupInfector\bin\Debug\StartupInfector.exe
+C:\Users\Golden\Desktop\StartupInfector\StartupInfector\bin\Debug\StartupInfector.pdb
+C:\Users\Golden\Desktop\StartupInfector\StartupInfector\obj\Debug\StartupInfector.csprojAssemblyReference.cache
+C:\Users\Golden\Desktop\StartupInfector\StartupInfector\obj\Debug\StartupInfector.csproj.CoreCompileInputs.cache
+C:\Users\Golden\Desktop\StartupInfector\StartupInfector\obj\Debug\StartupInfector.exe
+C:\Users\Golden\Desktop\StartupInfector\StartupInfector\obj\Debug\StartupInfector.pdb
+D:\CloudDesk\Other\#Pruducts\YouTube Project\StartupInfector\StartupInfector\bin\Debug\StartupInfector.exe
+D:\CloudDesk\Other\#Pruducts\YouTube Project\StartupInfector\StartupInfector\bin\Debug\StartupInfector.pdb
+D:\CloudDesk\Other\#Pruducts\YouTube Project\StartupInfector\StartupInfector\obj\Debug\StartupInfector.csproj.CoreCompileInputs.cache
+D:\CloudDesk\Other\#Pruducts\YouTube Project\StartupInfector\StartupInfector\obj\Debug\StartupInfector.exe
+D:\CloudDesk\Other\#Pruducts\YouTube Project\StartupInfector\StartupInfector\obj\Debug\StartupInfector.pdb
+D:\CloudDesk\Other\#Pruducts\YouTube Project\StartupInfector\StartupInfector\obj\Debug\StartupInfector.csprojAssemblyReference.cache
